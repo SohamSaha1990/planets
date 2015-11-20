@@ -2,5 +2,14 @@ hello i am soham
 Exploration mars underway!
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity.
+
+Pretty weird
+
 Nobody cares
-I'm hungry.
+I'm hungry,
+
+THE CONFLICT WILL NEVER BE RESOLVED
+
+
+conflict removed
+>>>>>>> 0176e151dc3a29103e78fd5e93e01c7d35bf1829
